@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Error Handling
+# Lab | Error Handling 
 
 ## Introduction
 
